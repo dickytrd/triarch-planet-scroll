@@ -1,0 +1,45 @@
+# Dependensi
+node_modules/
+/jspm_packages/
+lib-cov/
+.grunt
+.lock-wscript
+
+# File Rahasia dan Lingkungan (Environment Variables)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+
+# Hasil Build dan Kompilasi
+dist/
+build/
+.next/
+.nuxt/
+out/
+.docusaurus/
+.cache/
+
+# Log dan Debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# File Sistem Operasi (OS)
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Database Lokal dan File Pengujian
+*.db
+*.sqlite
+*.sqlite3
+coverage/
+.nyc_output
