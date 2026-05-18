@@ -116,7 +116,7 @@ export default function Loader({ onComplete }) {
             fontFamily: 'Satoshi, sans-serif',
           }}
         >
-          KMX
+          TRIARCH
         </span>
         <span
           style={{
@@ -160,9 +160,9 @@ export default function Loader({ onComplete }) {
             marginBottom: 24,
           }}
         >
-          KONEMEX
+          TRIARCH
           <br />
-          <span style={{ color: 'rgba(255,255,255,0.25)' }}>S69</span>
+          <span style={{ color: 'rgba(255,255,255,0.25)' }}>-01</span>
         </div>
 
         {/* Status text */}
